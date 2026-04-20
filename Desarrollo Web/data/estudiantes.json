@@ -1,0 +1,9 @@
+[
+  {
+    "id": "juan01",
+    "nombre": "Juan Pérez",
+    "correo": "juan@correo.com",
+    "programa": "Desarrollo de Software",
+    "color": "red"
+  }
+]
