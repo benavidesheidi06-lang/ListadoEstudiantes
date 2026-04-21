@@ -12,6 +12,13 @@
     "correo": "juan@correo.com",
     "programa": "Desarrollo de Software",
     "color": "blue"
+  },
+  {
+    "id": "wilmer01",
+    "nombre": "Wilmer Garcia",
+    "correo": "wilmer.garcia@correo.com",
+    "programa": "Desarrollo de Software",
+    "color": "green"
   }
 
 
