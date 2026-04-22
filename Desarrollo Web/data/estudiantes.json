@@ -6,13 +6,7 @@
     "programa": "Desarrollo de Software",
     "color": "red"
   },
-  {
-    "id": "pepe1",
-    "nombre": "Pepe Maa",
-    "correo": "juan@correo.com",
-    "programa": "Desarrollo de Software",
-    "color": "blue"
-  },
+
   {
     "id": "wilmer01",
     "nombre": "Wilmer Garcia",
