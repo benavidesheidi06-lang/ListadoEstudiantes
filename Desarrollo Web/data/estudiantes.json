@@ -34,9 +34,15 @@
     "programa": "Desarrollo de Software",
     "color": "green "
 
+  },
+  {
+    "id": "DracoDeveloping",
+    "nombre": "Daniel Posada",
+    "correo": "daniel.posadalo@cetcolsubsidio.edu.co",
+    "programa": "Desarrollo de Software",
+    "color": "#55adfa",
+    "fontColor": "#4d58f3"
+
   }
-
-
-
 
 ]

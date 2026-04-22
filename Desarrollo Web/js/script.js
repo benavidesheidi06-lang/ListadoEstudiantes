@@ -18,7 +18,8 @@ function mostrarEstudiante(id) {
 
     if (estudiante) {
         contenedor.innerHTML = `
-            <div class="card" style="border-color: ${estudiante.color}">
+            <div class="card" style="border-color: ${estudiante.color};
+            color: ${estudiante.fontColor || 'inherit'}">
                 <h3>${estudiante.nombre}</h3>
                 <p><strong>Correo:</strong> ${estudiante.correo}</p>
                 <p><strong>Programa:</strong> ${estudiante.programa}</p>
