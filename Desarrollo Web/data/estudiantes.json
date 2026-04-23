@@ -46,5 +46,14 @@
     "color": "#55adfa",
     "fontColor": "#4d58f3"
 
+  },
+
+  {
+    "id": "WtSlayer",
+    "nombre": "Wilmer Pérez",
+    "correo": "wilmer.perezol@cetcolsubsidio.edu.co",
+    "programa":"Desarrollo de Software",
+    "color": "#8C8C8C",
+    "fontColor": "#690015"
   }
 ]
