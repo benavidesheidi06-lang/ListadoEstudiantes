@@ -37,6 +37,15 @@
     "color": "#55adfa",
     "fontColor": "#4d58f3"
 
+  },
+  {
+    "id": "vivibogota17",
+    "nombre": "Andrea Gonzalez",
+    "correo": "andrea.gonzalezva@cetcolsubsidio.edu.co",
+    "programa": "Desarrollo de Software",
+    "color": "#F54927",
+    "fontColor": "#F54927"
+
   }
 
 ]
