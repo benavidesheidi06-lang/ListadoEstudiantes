@@ -37,6 +37,16 @@
     "color": "#55adfa",
     "fontColor": "#4d58f3"
 
+  },
+
+  {
+    "id": "TheJackKT",
+    "nombre": "Javier Andrés Coronado Pulido",
+    "correo": "javier.coronadopu@cetcolsubsidio.edu.co",
+    "programa": "Desarrollo de Software",
+    "color": "#cf4311",
+    "fontColor": "#a3360f"
+
   }
 
 ]
